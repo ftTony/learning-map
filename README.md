@@ -23,15 +23,15 @@
 
 ### javascript 基础
 
-### javascript基础
+### javascript 基础
 
 ![javascript基础](https://user-images.githubusercontent.com/6395813/54739938-bdcddf00-4bf4-11e9-893a-c09183836e9c.jpg)
 
-### nodejs学习
+### nodejs 学习
 
-![image](nodejs学习.jpg)
+![nodejs学习](https://user-images.githubusercontent.com/6395813/79526424-d7f81c00-8097-11ea-9e55-ca2a4dbbde3f.jpg)
 
-### CSS基础
+### CSS 基础
 
 ![css思维导图](https://user-images.githubusercontent.com/6395813/54738235-56ad2c00-4bee-11e9-84c7-618994c17fe5.jpg)
 
