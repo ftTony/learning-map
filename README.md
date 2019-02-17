@@ -7,7 +7,10 @@
 1. native方向(reative-native、小程序、Electron等)
 1. 后端方向(nodejs)
 1. 动画方向(webgl、svg、canvas)
-1. 工程化方向(组件、webpack、gulp)
+1. 工程化方向(组件化、各种工具使用、监控数据上报)
+1. 专业写业务
+
+**每个方向都可以深入细化**
 
 ### javascript基础
 ![javascript](https://user-images.githubusercontent.com/6395813/52900455-daab7700-3230-11e9-9cd7-afd4d99b119f.jpg)
