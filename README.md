@@ -1,5 +1,14 @@
 ## 前端面试内容导图
 
+前端涉及的东西相对比较，对知识点做以下分类，仅个人观点。
+
+### 前端求职方向
+
+1. native方向(reative-native、小程序、Electron等)
+1. 后端方向(nodejs)
+1. 动画方向(webgl、svg、canvas)
+1. 工程化方向(组件、webpack、gulp)
+
 ### javascript基础
 ![javascript](https://user-images.githubusercontent.com/6395813/52900455-daab7700-3230-11e9-9cd7-afd4d99b119f.jpg)
 
