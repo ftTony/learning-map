@@ -50,13 +50,12 @@
 1. [我如何零基础转行成为一个自信的前端](https://lambda.academy/how-i-became-a-confident-frontend-developer/)
 
 ### 学习书籍
-1. 《javascript权威指南第六版》
+1. 《CSS权威指南》
+1. 《CSS揭秘》
+1. 《CSS世界》
 2. 《JavaScript高级程序设计（第3版）中文 高清 完整》
 1. 《你不知道的JavaScript（上卷）》
 1. 《你不知道的JavaScript（中卷）》
 1. 《你不知道的JavaScript（下卷）》
-2. 《JavaScript设计模式与开发》
 1. 《深入浅出Webpack》
 1. 《数据结构与算法JavaScript描述》
-1. 《JavaScript正则表达式迷你书（1.1版）》
-2. 《图解http》
