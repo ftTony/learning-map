@@ -21,7 +21,7 @@
 ### 其它
 ![default](https://user-images.githubusercontent.com/6395813/52900450-d8e1b380-3230-11e9-9ad5-fe0ef6103d96.jpg)
 
-#### 面试
+### 面试
 
 1. [['']==''返回多少？为什么？==做了哪些操作？](https://github.com/ftTony/blog/issues/3)
 1. [前端面经](https://yuchengkai.cn/docs/zh/frontend/)
@@ -39,12 +39,15 @@
 1. [2018前端面试总结，看完弄懂，工资少说加3K](https://juejin.im/post/5b94d8965188255c5a0cdc02)
 1. [一年半经验，百度、有赞、阿里前端面试总结](https://juejin.im/post/5befeb5051882511a8527dbe)
 1. [前端面试总结（at, md）](https://juejin.im/post/5a3134bf6fb9a0452405d507)
-1. [一位前端 2018 绝地求生记](https://juejin.im/post/5c36fe50518825253b5e94f4)
-1. [入门前端一周年总结-我是如何快速入门前端的知识分享](https://juejin.im/post/5c2c18116fb9a049fb43c32c)
-1. [三年前端，面试思考（二）](https://juejin.im/post/5bdeb7c75188251709244c2b)
 1. [双非"应届生校招如何获得大厂青睐?](https://juejin.im/post/5acb2a7c6fb9a028db58fe99)
 
-#### 学习书籍
+### 优化的学习方法及建议
+
+1. [三年前端，面试思考（二）](https://juejin.im/post/5bdeb7c75188251709244c2b)
+1. [入门前端一周年总结-我是如何快速入门前端的知识分享](https://juejin.im/post/5c2c18116fb9a049fb43c32c)
+1. [一位前端 2018 绝地求生记](https://juejin.im/post/5c36fe50518825253b5e94f4)
+
+### 学习书籍
 1. 《javascript权威指南第六版》
 2. 《JavaScript高级程序设计（第3版）中文 高清 完整》
 1. 《你不知道的JavaScript（上卷）》
