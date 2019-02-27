@@ -59,7 +59,7 @@
 1. [入门前端一周年总结-我是如何快速入门前端的知识分享](https://juejin.im/post/5c2c18116fb9a049fb43c32c)
 1. [一位前端 2018 绝地求生记](https://juejin.im/post/5c36fe50518825253b5e94f4)
 1. [写技术博客那点事](https://juejin.im/post/5c4d3585e51d4539f51d9d44)
-1. [我如何零基础转行成为一个自信的前端](https://lambda.academy/how-i-became-a-confident-frontend-developer/)
+1. [我如何零基础转行成为一个自信的前端](https://juejin.im/post/5c75d34851882564965edb23
 
 ### 学习书籍
 1. 《CSS权威指南》
