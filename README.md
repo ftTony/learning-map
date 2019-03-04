@@ -31,7 +31,7 @@
 ![default](https://user-images.githubusercontent.com/6395813/52900453-d97a4a00-3230-11e9-9ae3-8484a3a86dd5.jpg)
 
 ### 其它
-![default](https://user-images.githubusercontent.com/6395813/52900450-d8e1b380-3230-11e9-9ad5-fe0ef6103d96.jpg)
+![default](https://user-images.githubusercontent.com/6395813/53721633-aecdf980-3e9e-11e9-863b-875e7d0af8c0.jpg)
 
 ### 面试
 
