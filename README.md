@@ -22,7 +22,7 @@
 ![vue](https://user-images.githubusercontent.com/6395813/52900456-daab7700-3230-11e9-93de-12b3f35c3554.jpg)
 
 ### 浏览器
-![default](https://user-images.githubusercontent.com/6395813/52900449-d8491d00-3230-11e9-8fc9-62307a89e8d4.jpg)
+![浏览器](https://user-images.githubusercontent.com/6395813/54195735-6d6ec700-44fa-11e9-9205-9e544d689313.jpg)
 
 ### 算法
 ![default](https://user-images.githubusercontent.com/6395813/52900451-d97a4a00-3230-11e9-999a-b2aaadef6e65.jpg)
