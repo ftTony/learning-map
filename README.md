@@ -13,7 +13,7 @@
 **每个方向都可以深入细化**
 
 ### javascript基础
-![javascript](https://user-images.githubusercontent.com/6395813/52900455-daab7700-3230-11e9-9cd7-afd4d99b119f.jpg)
+![javascript基础](https://user-images.githubusercontent.com/6395813/54268048-5e008400-45b5-11e9-800a-7844a442ca7e.jpg)
 
 ### CSS基础
 ![css](https://user-images.githubusercontent.com/6395813/52900454-da12e080-3230-11e9-98c1-d900525c57cc.jpg)
