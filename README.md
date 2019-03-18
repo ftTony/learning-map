@@ -58,7 +58,7 @@
 1. [一年半经验，百度、有赞、阿里前端面试总结](https://juejin.im/post/5befeb5051882511a8527dbe)
 1. [前端面试总结（at, md）](https://juejin.im/post/5a3134bf6fb9a0452405d507)
 1. [双非"应届生校招如何获得大厂青睐?](https://juejin.im/post/5acb2a7c6fb9a028db58fe99)
-
+1. [2019 面试准备](https://juejin.im/post/5c8e4cd3f265da67c87454a0?utm_source=gold_browser_extension#heading-28)
 ### 优化的学习方法及建议
 
 1. [三年前端，面试思考（二）](https://juejin.im/post/5bdeb7c75188251709244c2b)
