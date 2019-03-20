@@ -16,7 +16,13 @@
 ![javascript基础](https://user-images.githubusercontent.com/6395813/54268048-5e008400-45b5-11e9-800a-7844a442ca7e.jpg)
 
 ### CSS基础
-![css](https://user-images.githubusercontent.com/6395813/52900454-da12e080-3230-11e9-98c1-d900525c57cc.jpg)
+![css思维导图](https://user-images.githubusercontent.com/6395813/54682867-10eb5780-4b4b-11e9-8217-58840b4530a2.jpg)
+
+参考资料
+
+1. [常见 CSS 布局](https://github.com/ftTony/blog/issues/3)
+1. [几种常见的CSS布局](https://github.com/ljianshu/Blog/issues/40)
+1. [如何居中一个元素（终结版）](https://mp.weixin.qq.com/s/UxY7VWqMMOjvgE6L_dlixA)
 
 ### 框架
 ![vue](https://user-images.githubusercontent.com/6395813/52900456-daab7700-3230-11e9-93de-12b3f35c3554.jpg)
