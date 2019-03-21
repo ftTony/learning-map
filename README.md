@@ -16,7 +16,7 @@
 ![javascript基础](https://user-images.githubusercontent.com/6395813/54268048-5e008400-45b5-11e9-800a-7844a442ca7e.jpg)
 
 ### CSS基础
-![css思维导图](https://user-images.githubusercontent.com/6395813/54682867-10eb5780-4b4b-11e9-8217-58840b4530a2.jpg)
+![css思维导图](https://user-images.githubusercontent.com/6395813/54738235-56ad2c00-4bee-11e9-84c7-618994c17fe5.jpg)
 
 参考资料
 
