@@ -13,7 +13,7 @@
 **每个方向都可以深入细化**
 
 ### javascript基础
-![javascript基础](https://user-images.githubusercontent.com/6395813/54268048-5e008400-45b5-11e9-800a-7844a442ca7e.jpg)
+![javascript基础](https://user-images.githubusercontent.com/6395813/54739938-bdcddf00-4bf4-11e9-893a-c09183836e9c.jpg)
 
 ### CSS基础
 ![css思维导图](https://user-images.githubusercontent.com/6395813/54738235-56ad2c00-4bee-11e9-84c7-618994c17fe5.jpg)
@@ -25,7 +25,7 @@
 1. [如何居中一个元素（终结版）](https://mp.weixin.qq.com/s/UxY7VWqMMOjvgE6L_dlixA)
 
 ### 框架
-![vue](https://user-images.githubusercontent.com/6395813/52900456-daab7700-3230-11e9-93de-12b3f35c3554.jpg)
+![vue框架](https://user-images.githubusercontent.com/6395813/54739977-e48c1580-4bf4-11e9-991d-a722bc6d4efb.jpg)
 
 ### 浏览器
 ![浏览器](https://user-images.githubusercontent.com/6395813/54195735-6d6ec700-44fa-11e9-9205-9e544d689313.jpg)
@@ -41,7 +41,7 @@
 ![default](https://user-images.githubusercontent.com/6395813/52900453-d97a4a00-3230-11e9-9ae3-8484a3a86dd5.jpg)
 
 ### 其它
-![其它](https://user-images.githubusercontent.com/6395813/54101963-4ed8d500-4401-11e9-993b-a23fe55bcd64.jpg)
+![其它](https://user-images.githubusercontent.com/6395813/54739911-a2fb6a80-4bf4-11e9-894e-7e4451fabde6.jpg)
 
 [常见手写代码部分](https://github.com/ftTony/notes/tree/master/%20InterviewQuestion)
 
