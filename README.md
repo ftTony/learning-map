@@ -43,6 +43,9 @@
 ### 其它
 ![其它](https://user-images.githubusercontent.com/6395813/54739911-a2fb6a80-4bf4-11e9-894e-7e4451fabde6.jpg)
 
+### 前端主管具备能力
+![前端主管能力](https://user-images.githubusercontent.com/6395813/54873751-5e501900-4e18-11e9-8a0f-f91b46791c20.jpg)
+
 [常见手写代码部分](https://github.com/ftTony/notes/tree/master/%20InterviewQuestion)
 
 ### 面试
