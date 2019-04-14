@@ -25,7 +25,7 @@
 1. [如何居中一个元素（终结版）](https://mp.weixin.qq.com/s/UxY7VWqMMOjvgE6L_dlixA)
 
 ### 框架
-![vue框架](https://user-images.githubusercontent.com/6395813/55682808-c64f4500-596a-11e9-9bde-bc47ac532aa2.jpg)
+![vue框架](https://user-images.githubusercontent.com/6395813/56088180-1750c300-5eae-11e9-9563-f960f167ebe8.jpg)
 
 ### 浏览器
 ![浏览器](https://user-images.githubusercontent.com/6395813/54195735-6d6ec700-44fa-11e9-9205-9e544d689313.jpg)
