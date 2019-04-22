@@ -68,6 +68,7 @@
 1. [前端面试总结（at, md）](https://juejin.im/post/5a3134bf6fb9a0452405d507)
 1. [双非"应届生校招如何获得大厂青睐?](https://juejin.im/post/5acb2a7c6fb9a028db58fe99)
 1. [2019 面试准备](https://juejin.im/post/5c8e4cd3f265da67c87454a0?utm_source=gold_browser_extension#heading-28)
+1. [【面试篇】寒冬求职季之你必须要懂的原生JS(中)](https://juejin.im/post/5cbd1e33e51d45789161d053)
 ### 优化的学习方法及建议
 
 1. [三年前端，面试思考（二）](https://juejin.im/post/5bdeb7c75188251709244c2b)
