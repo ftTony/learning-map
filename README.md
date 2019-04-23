@@ -76,6 +76,7 @@
 1. [一位前端 2018 绝地求生记](https://juejin.im/post/5c36fe50518825253b5e94f4)
 1. [写技术博客那点事](https://juejin.im/post/5c4d3585e51d4539f51d9d44)
 1. [我如何零基础转行成为一个自信的前端](https://juejin.im/post/5c75d34851882564965edb23)
+1. [学习方法：如何在工作内外获得持续的技术成长](https://juejin.im/post/5cbd7477f265da039d32834e)
 
 ### 学习书籍
 1. 《CSS权威指南》
