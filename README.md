@@ -71,6 +71,7 @@
 1. [【面试篇】寒冬求职季之你必须要懂的原生JS(中)](https://juejin.im/post/5cbd1e33e51d45789161d053)
 1. [一名【合格】前端工程师的自检清单](https://juejin.im/post/5cc1da82f265da036023b628?utm_source=gold_browser_extension)
 1. [(下篇)中高级前端大厂面试秘籍，寒冬中为您保驾护航，直通大厂](https://juejin.im/post/5cc26dfef265da037b611738?utm_source=gold_browser_extension)
+1. [高级前端工程师面试必备](https://juejin.im/post/5cd0bdfc6fb9a031f10ca08c?utm_source=gold_browser_extension)
 ### 优化的学习方法及建议
 
 1. [三年前端，面试思考（二）](https://juejin.im/post/5bdeb7c75188251709244c2b)
