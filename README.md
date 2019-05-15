@@ -56,6 +56,8 @@
 1. [百度阿里网易大疆等大小厂前端校招面筋](https://juejin.im/post/5bb470295188255c5e66f88f)
 1. [【面经】寒冬中的一年半前端跳槽](https://juejin.im/post/5c356f68f265da61483bca61)
 1. [中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)](https://juejin.im/post/5c64d15d6fb9a049d37f9c20?utm_source=gold_browser_extension#heading-21)
+1. [(下篇)中高级前端大厂面试秘籍，寒冬中为您保驾护航，直通大厂](https://juejin.im/post/5cc26dfef265da037b611738?utm_source=gold_browser_extension)
+1. [(中篇)中高级前端大厂面试秘籍，寒冬中为您保驾护航，直通大厂](https://juejin.im/post/5c92f499f265da612647b754)
 1. [百度阿里网易大疆等大小厂前端校招面筋](https://juejin.im/post/5bb470295188255c5e66f88f)
 1. [从0到1，小白的前端摸索之路](https://juejin.im/post/5c555b2de51d457fa31e306d)
 1. [[杂谈]了解一些额外知识，让前端开发锦上添花](https://juejin.im/post/5b2f4790e51d45589e7bd63d)
@@ -70,10 +72,12 @@
 1. [2019 面试准备](https://juejin.im/post/5c8e4cd3f265da67c87454a0?utm_source=gold_browser_extension#heading-28)
 1. [【面试篇】寒冬求职季之你必须要懂的原生JS(中)](https://juejin.im/post/5cbd1e33e51d45789161d053)
 1. [一名【合格】前端工程师的自检清单](https://juejin.im/post/5cc1da82f265da036023b628?utm_source=gold_browser_extension)
-1. [(下篇)中高级前端大厂面试秘籍，寒冬中为您保驾护航，直通大厂](https://juejin.im/post/5cc26dfef265da037b611738?utm_source=gold_browser_extension)
 1. [高级前端工程师面试必备](https://juejin.im/post/5cd0bdfc6fb9a031f10ca08c?utm_source=gold_browser_extension)
 1. [前端面试每日 3+1](https://github.com/haizlin/fe-interview)
 1. [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+1. [【周刊-1】三年大厂面试官-面试题精选及答案](https://juejin.im/post/5ca9de22e51d452b5372ed90)
+1. [【周刊-2】三年大厂面试官-前端面试题（偏难）](https://juejin.im/post/5cb0315f518825215e61ec14)
+1. [【周刊-3】三年大厂面试官-十道前端面试题（欢迎挑战）](https://juejin.im/post/5cd82463518825692330d440)
 ### 优化的学习方法及建议
 
 1. [三年前端，面试思考（二）](https://juejin.im/post/5bdeb7c75188251709244c2b)
