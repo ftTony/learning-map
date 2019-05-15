@@ -86,6 +86,7 @@
 1. [写技术博客那点事](https://juejin.im/post/5c4d3585e51d4539f51d9d44)
 1. [我如何零基础转行成为一个自信的前端](https://juejin.im/post/5c75d34851882564965edb23)
 1. [学习方法：如何在工作内外获得持续的技术成长](https://juejin.im/post/5cbd7477f265da039d32834e)
+1. [Github是目前唯一的还有流量红利的写作平台](https://mp.weixin.qq.com/s?__biz=Mzg5ODA5NTM1Mw==&mid=2247483887&idx=1&sn=7dd5001fca4467b55c7110bc68844d1f&chksm=c0668079f711096fca9d6cc91cf1d7baaab07c0b6090448e529063781422d331955b75aaa97f&xtrack=1&scene=0&subscene=90&sessionid=1557899316&clicktime=1557899328&ascene=7&devicetype=android-27&version=2700043a&nettype=WIFI&abtest_cookie=BAABAAoACwASABMABQAjlx4Av5keANyZHgD4mR4AAJoeAAAA&lang=zh_CN&pass_ticket=4YSf3GwO4oRhRf7LUGGFnPIrWvtj1uCgJR2kOCoGExdcSUzluPx0Uo0I0lzrY6fM&wx_header=1)
 
 ### 学习书籍
 1. 《CSS权威指南》
