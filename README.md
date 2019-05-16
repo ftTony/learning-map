@@ -78,6 +78,7 @@
 1. [【周刊-1】三年大厂面试官-面试题精选及答案](https://juejin.im/post/5ca9de22e51d452b5372ed90)
 1. [【周刊-2】三年大厂面试官-前端面试题（偏难）](https://juejin.im/post/5cb0315f518825215e61ec14)
 1. [【周刊-3】三年大厂面试官-十道前端面试题（欢迎挑战）](https://juejin.im/post/5cd82463518825692330d440)
+1. [node-interview](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
 ### 优化的学习方法及建议
 
 1. [三年前端，面试思考（二）](https://juejin.im/post/5bdeb7c75188251709244c2b)
