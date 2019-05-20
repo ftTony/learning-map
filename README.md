@@ -79,8 +79,9 @@
 1. [【周刊-2】三年大厂面试官-前端面试题（偏难）](https://juejin.im/post/5cb0315f518825215e61ec14)
 1. [【周刊-3】三年大厂面试官-十道前端面试题（欢迎挑战）](https://juejin.im/post/5cd82463518825692330d440)
 1. [node-interview](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
-### 优化的学习方法及建议
+1. [【面试】迄今为止把同步/异步/阻塞/非阻塞/BIO/NIO/AIO讲的这么清楚的好文章（快快珍藏）](https://www.cnblogs.com/lixinjie/p/a-post-about-io-clearly.html)
 
+### 优化的学习方法及建议
 1. [三年前端，面试思考（二）](https://juejin.im/post/5bdeb7c75188251709244c2b)
 1. [入门前端一周年总结-我是如何快速入门前端的知识分享](https://juejin.im/post/5c2c18116fb9a049fb43c32c)
 1. [一位前端 2018 绝地求生记](https://juejin.im/post/5c36fe50518825253b5e94f4)
@@ -89,6 +90,8 @@
 1. [学习方法：如何在工作内外获得持续的技术成长](https://juejin.im/post/5cbd7477f265da039d32834e)
 1. [Github是目前唯一的还有流量红利的写作平台](https://mp.weixin.qq.com/s?__biz=Mzg5ODA5NTM1Mw==&mid=2247483887&idx=1&sn=7dd5001fca4467b55c7110bc68844d1f&chksm=c0668079f711096fca9d6cc91cf1d7baaab07c0b6090448e529063781422d331955b75aaa97f&xtrack=1&scene=0&subscene=90&sessionid=1557899316&clicktime=1557899328&ascene=7&devicetype=android-27&version=2700043a&nettype=WIFI&abtest_cookie=BAABAAoACwASABMABQAjlx4Av5keANyZHgD4mR4AAJoeAAAA&lang=zh_CN&pass_ticket=4YSf3GwO4oRhRf7LUGGFnPIrWvtj1uCgJR2kOCoGExdcSUzluPx0Uo0I0lzrY6fM&wx_header=1)
 1. [学习方法：如何在工作内外获得持续的技术成长](https://juejin.im/post/5cbd7477f265da039d32834e)
+1. [如何学习 CSS](https://mp.weixin.qq.com/s/ZM3WPlQkvNr7OIJvDfjQ3A)
+1. [说你呢，别找借口，要找办法](https://mp.weixin.qq.com/s/iKgNbrPZxWiprreyUFPcyA)
 
 ### 学习书籍
 1. 《CSS权威指南》
