@@ -94,6 +94,7 @@
 1. [说你呢，别找借口，要找办法](https://mp.weixin.qq.com/s/iKgNbrPZxWiprreyUFPcyA)
 
 ### 学习书籍
+1. [前端免费高清电子书(史上最全)](https://juejin.im/post/5c0098f66fb9a049dd80019e)
 1. 《CSS权威指南》
 1. 《CSS揭秘》
 1. 《CSS世界》
