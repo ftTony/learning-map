@@ -83,6 +83,7 @@
 1.[个offer，12家公司，35场面试，从微软到谷歌，应届计算机毕业生的2012求职之路](https://www.cnblogs.com/figure9/archive/2013/01/09/2853649.html)
 1.[迟到的求职经验分享，附20+篇面经](https://www.cnblogs.com/wenbochang/p/10317715.html)
 1.[前端程序员面试笔试宝典](https://www.cnblogs.com/strick/p/9789330.html)
+
 ### 优化的学习方法及建议
 1. [三年前端，面试思考（二）](https://juejin.im/post/5bdeb7c75188251709244c2b)
 1. [入门前端一周年总结-我是如何快速入门前端的知识分享](https://juejin.im/post/5c2c18116fb9a049fb43c32c)
@@ -94,7 +95,7 @@
 1. [学习方法：如何在工作内外获得持续的技术成长](https://juejin.im/post/5cbd7477f265da039d32834e)
 1. [如何学习 CSS](https://mp.weixin.qq.com/s/ZM3WPlQkvNr7OIJvDfjQ3A)
 1. [说你呢，别找借口，要找办法](https://mp.weixin.qq.com/s/iKgNbrPZxWiprreyUFPcyA)
-
+1. [程序员也需要工匠精神](https://www.cnblogs.com/strick/p/6388058.html)
 ### 学习书籍
 1. [前端免费高清电子书(史上最全)](https://juejin.im/post/5c0098f66fb9a049dd80019e)
 1. 《CSS权威指南》
