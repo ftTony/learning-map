@@ -81,7 +81,7 @@
 1. [node-interview](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
 1. [【面试】迄今为止把同步/异步/阻塞/非阻塞/BIO/NIO/AIO讲的这么清楚的好文章（快快珍藏）](https://www.cnblogs.com/lixinjie/p/a-post-about-io-clearly.html)
 1.[个offer，12家公司，35场面试，从微软到谷歌，应届计算机毕业生的2012求职之路](https://www.cnblogs.com/figure9/archive/2013/01/09/2853649.html)
-
+1.[迟到的求职经验分享，附20+篇面经](https://www.cnblogs.com/wenbochang/p/10317715.html)
 ### 优化的学习方法及建议
 1. [三年前端，面试思考（二）](https://juejin.im/post/5bdeb7c75188251709244c2b)
 1. [入门前端一周年总结-我是如何快速入门前端的知识分享](https://juejin.im/post/5c2c18116fb9a049fb43c32c)
