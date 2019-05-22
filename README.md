@@ -96,6 +96,7 @@
 1. [如何学习 CSS](https://mp.weixin.qq.com/s/ZM3WPlQkvNr7OIJvDfjQ3A)
 1. [说你呢，别找借口，要找办法](https://mp.weixin.qq.com/s/iKgNbrPZxWiprreyUFPcyA)
 1. [程序员也需要工匠精神](https://www.cnblogs.com/strick/p/6388058.html)
+1. [努力的孩子运气不会太差，跌宕的人生定当更加精彩](https://www.cnblogs.com/ECJTUACM-873284962/p/9052871.html)
 ### 学习书籍
 1. [前端免费高清电子书(史上最全)](https://juejin.im/post/5c0098f66fb9a049dd80019e)
 1. 《CSS权威指南》
