@@ -98,7 +98,7 @@
 1. [程序员也需要工匠精神](https://www.cnblogs.com/strick/p/6388058.html)
 1. [努力的孩子运气不会太差，跌宕的人生定当更加精彩](https://www.cnblogs.com/ECJTUACM-873284962/p/9052871.html)
 1. [我的七条人生哲理以及个人学习方法总结](https://www.cnblogs.com/ECJTUACM-873284962/p/8697647.html)
-1. [职场瓶颈：2~4 年前端走出离职困境与舒适区](https://juejin.im/post/5cd15648f265da038145eeb9)
+1. [前端核心能力进阶指南](https://juejin.im/book/5cb56b7be51d456e3267e400)
 1. [被实现的牛皮：和我生小孩吧，我能把他培养为天才](https://mp.weixin.qq.com/s/TexfUmLF3CC9WJjHPPPZ5Q)
 ### 学习书籍
 1. [前端免费高清电子书(史上最全)](https://juejin.im/post/5c0098f66fb9a049dd80019e)
