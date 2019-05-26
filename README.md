@@ -74,7 +74,8 @@
 1. [一名【合格】前端工程师的自检清单](https://juejin.im/post/5cc1da82f265da036023b628?utm_source=gold_browser_extension)
 1. [高级前端工程师面试必备](https://juejin.im/post/5cd0bdfc6fb9a031f10ca08c?utm_source=gold_browser_extension)
 1. [前端面试每日 3+1](https://github.com/haizlin/fe-interview)
-1. [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+1. [Daily-Interview-Question-1](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+1. [Daily-Interview-Question-2](https://github.com/kujian/daily-interview-question)
 1. [【周刊-1】三年大厂面试官-面试题精选及答案](https://juejin.im/post/5ca9de22e51d452b5372ed90)
 1. [【周刊-2】三年大厂面试官-前端面试题（偏难）](https://juejin.im/post/5cb0315f518825215e61ec14)
 1. [【周刊-3】三年大厂面试官-十道前端面试题（欢迎挑战）](https://juejin.im/post/5cd82463518825692330d440)
@@ -84,6 +85,7 @@
 1. [迟到的求职经验分享，附20+篇面经](https://www.cnblogs.com/wenbochang/p/10317715.html)
 1. [前端程序员面试笔试宝典](https://www.cnblogs.com/strick/p/9789330.html)
 1. [金三银四魔都两年半前端面经](https://juejin.im/post/5cb87f9df265da03555c78ec)
+
 ### 优化的学习方法及建议
 1. [三年前端，面试思考（二）](https://juejin.im/post/5bdeb7c75188251709244c2b)
 1. [入门前端一周年总结-我是如何快速入门前端的知识分享](https://juejin.im/post/5c2c18116fb9a049fb43c32c)
