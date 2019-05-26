@@ -85,7 +85,7 @@
 1. [迟到的求职经验分享，附20+篇面经](https://www.cnblogs.com/wenbochang/p/10317715.html)
 1. [前端程序员面试笔试宝典](https://www.cnblogs.com/strick/p/9789330.html)
 1. [金三银四魔都两年半前端面经](https://juejin.im/post/5cb87f9df265da03555c78ec)
-
+1. [前端面经分享|腾讯](https://juejin.im/post/5ce9f666e51d45777621baf7)
 ### 优化的学习方法及建议
 1. [三年前端，面试思考（二）](https://juejin.im/post/5bdeb7c75188251709244c2b)
 1. [入门前端一周年总结-我是如何快速入门前端的知识分享](https://juejin.im/post/5c2c18116fb9a049fb43c32c)
