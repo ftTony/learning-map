@@ -86,6 +86,8 @@
 1. [前端程序员面试笔试宝典](https://www.cnblogs.com/strick/p/9789330.html)
 1. [金三银四魔都两年半前端面经](https://juejin.im/post/5cb87f9df265da03555c78ec)
 1. [前端面经分享|腾讯](https://juejin.im/post/5ce9f666e51d45777621baf7)
+1. [BAT 前端开发面经 —— 吐血总结](https://www.cnblogs.com/chaoran/p/8891892.html)
+
 ### 优化的学习方法及建议
 1. [三年前端，面试思考（二）](https://juejin.im/post/5bdeb7c75188251709244c2b)
 1. [入门前端一周年总结-我是如何快速入门前端的知识分享](https://juejin.im/post/5c2c18116fb9a049fb43c32c)
@@ -102,6 +104,7 @@
 1. [我的七条人生哲理以及个人学习方法总结](https://www.cnblogs.com/ECJTUACM-873284962/p/8697647.html)
 1. [前端核心能力进阶指南](https://juejin.im/book/5cb56b7be51d456e3267e400)
 1. [被实现的牛皮：和我生小孩吧，我能把他培养为天才](https://mp.weixin.qq.com/s/TexfUmLF3CC9WJjHPPPZ5Q)
+1. [写了300多篇文章了，说说我为什么坚持写博客](https://www.cnblogs.com/f-ck-need-u/p/9315728.html)
 ### 学习书籍
 1. [前端免费高清电子书(史上最全)](https://juejin.im/post/5c0098f66fb9a049dd80019e)
 1. 《CSS权威指南》
