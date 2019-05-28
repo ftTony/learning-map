@@ -107,6 +107,7 @@
 1. [写了300多篇文章了，说说我为什么坚持写博客](https://www.cnblogs.com/f-ck-need-u/p/9315728.html)
 ### 学习书籍
 1. [前端免费高清电子书(史上最全)](https://juejin.im/post/5c0098f66fb9a049dd80019e)
+1. [常用书籍](https://github.com/mymmsc/books)
 1. 《CSS权威指南》
 1. 《CSS揭秘》
 1. 《CSS世界》
