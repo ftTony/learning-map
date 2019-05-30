@@ -110,6 +110,7 @@
 ### 学习书籍
 1. [前端免费高清电子书(史上最全)](https://juejin.im/post/5c0098f66fb9a049dd80019e)
 1. [常用书籍](https://github.com/mymmsc/books)
+1. [计算机电子书pdf整理及下载链接](https://github.com/fuhmmin/it-ebooks-cn)
 1. 《CSS权威指南》
 1. 《CSS揭秘》
 1. 《CSS世界》
