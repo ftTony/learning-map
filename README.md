@@ -118,6 +118,7 @@
 1. [常用书籍](https://github.com/mymmsc/books)
 1. [计算机电子书pdf整理及下载链接](https://github.com/fuhmmin/it-ebooks-cn)
 1. [编程书籍的整理和收集](https://github.com/KeKe-Li/book)
+1. [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 1. 《CSS权威指南》
 1. 《CSS揭秘》
 1. 《CSS世界》
