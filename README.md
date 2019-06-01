@@ -108,7 +108,7 @@
 1. [被实现的牛皮：和我生小孩吧，我能把他培养为天才](https://mp.weixin.qq.com/s/TexfUmLF3CC9WJjHPPPZ5Q)
 1. [写了300多篇文章了，说说我为什么坚持写博客](https://www.cnblogs.com/f-ck-need-u/p/9315728.html)
 1. [【人物志】技术十年：美团第一位前端工程师潘魏增](https://juejin.im/post/5c0a110df265da61407eb67e)
-
+1. [前端核心能力进阶指南](https://juejin.im/book/5cb56b7be51d456e3267e400/section/5cb7351de51d456e770bdcbd)
 ### 学习书籍
 1. [前端免费高清电子书(史上最全)](https://juejin.im/post/5c0098f66fb9a049dd80019e)
 1. [常用书籍](https://github.com/mymmsc/books)
