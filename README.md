@@ -121,6 +121,7 @@
 1. [编程书籍的整理和收集](https://github.com/KeKe-Li/book)
 1. [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 1. [Web前端导航](http://www.alloyteam.com/nav/)
+1. [计算机经典书籍推荐](https://github.com/woai3c/recommended-books)
 1. 《CSS权威指南》
 1. 《CSS揭秘》
 1. 《CSS世界》
