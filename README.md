@@ -161,6 +161,8 @@
 31. [前端技术日报](https://github.com/kujian/frontendDaily)
 1. [个人分享--web前端学习资源分享](https://juejin.im/post/5a0c1956f265da430a501f51)
 1. [免费英文书籍](http://web.archive.org/web/20160428030320/https://github.com/vhf/free-programming-books)
+1. [JavaScript 轻量级函数式编程](https://wizardforcel.gitbooks.io/functional-light-js/content/)
+1. [原创和翻译](https://github.com/ikcamp)
 1. 《CSS权威指南》
 1. 《CSS揭秘》
 1. 《CSS世界》
