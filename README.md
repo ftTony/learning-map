@@ -116,6 +116,7 @@
 1. [前端核心能力进阶指南](https://juejin.im/book/5cb56b7be51d456e3267e400/section/5cb7351de51d456e770bdcbd)
 1. [写博客的这几个月，获益良多](https://juejin.im/post/5a67710b51882573443cd81d)
 1. [个人建议-怎样写出一篇好文章](https://juejin.im/post/5a649f6af265da3e553802ee)
+1. [我在阿里云做前端](https://mp.weixin.qq.com/s/aJd9CEArS2-wsyE_pQsRAw)
 
 ### 学习书籍
 1. [前端免费高清电子书(史上最全)](https://juejin.im/post/5c0098f66fb9a049dd80019e)
