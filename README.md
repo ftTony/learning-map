@@ -163,6 +163,7 @@
 1. [免费英文书籍](http://web.archive.org/web/20160428030320/https://github.com/vhf/free-programming-books)
 1. [JavaScript 轻量级函数式编程](https://wizardforcel.gitbooks.io/functional-light-js/content/)
 1. [原创和翻译](https://github.com/ikcamp)
+1. [前端技术书籍、前端热门技术、前端发展](https://github.com/zhaoqize/FE-Guide)
 1. 《CSS权威指南》
 1. 《CSS揭秘》
 1. 《CSS世界》
