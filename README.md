@@ -102,7 +102,6 @@
 1. [学习方法：如何在工作内外获得持续的技术成长](https://juejin.im/post/5cbd7477f265da039d32834e)
 1. [Github是目前唯一的还有流量红利的写作平台](https://mp.weixin.qq.com/s?__biz=Mzg5ODA5NTM1Mw==&mid=2247483887&idx=1&sn=7dd5001fca4467b55c7110bc68844d1f&chksm=c0668079f711096fca9d6cc91cf1d7baaab07c0b6090448e529063781422d331955b75aaa97f&xtrack=1&scene=0&subscene=90&sessionid=1557899316&clicktime=1557899328&ascene=7&devicetype=android-27&version=2700043a&nettype=WIFI&abtest_cookie=BAABAAoACwASABMABQAjlx4Av5keANyZHgD4mR4AAJoeAAAA&lang=zh_CN&pass_ticket=4YSf3GwO4oRhRf7LUGGFnPIrWvtj1uCgJR2kOCoGExdcSUzluPx0Uo0I0lzrY6fM&wx_header=1)
 1. [学习方法：如何在工作内外获得持续的技术成长](https://juejin.im/post/5cbd7477f265da039d32834e)
-1. [如何学习 CSS](https://mp.weixin.qq.com/s/ZM3WPlQkvNr7OIJvDfjQ3A)
 1. [说你呢，别找借口，要找办法](https://mp.weixin.qq.com/s/iKgNbrPZxWiprreyUFPcyA)
 1. [程序员也需要工匠精神](https://www.cnblogs.com/strick/p/6388058.html)
 1. [努力的孩子运气不会太差，跌宕的人生定当更加精彩](https://www.cnblogs.com/ECJTUACM-873284962/p/9052871.html)
