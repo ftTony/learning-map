@@ -137,7 +137,6 @@
 9. [前端技术清单](https://github.com/alienzhou/frontend-tech-list)
 10. [java学习清单](https://github.com/crossoverJie/JCSprout)
 10. [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
-11. [前端入门和进阶学习笔记](https://github.com/suihailiang/Web)
 12. [大前端工具集](https://github.com/nieweidong/fetool)
 13. [开发效率提升之工具篇](https://github.com/Louiszhai/tool)
 13. [前端个人博客](https://github.com/fouber/blog)
