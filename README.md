@@ -167,6 +167,7 @@
 1. [前端山泉](https://github.com/STPace/fe-spring)
 1. [文档库](https://github.com/LiangJunrong/document-library)
 1. [DDFE-blog](https://github.com/DDFE/DDFE-blog)
+1. [电子书下载网站](http://www.ireadweek.com)
 1. 《CSS权威指南》
 1. 《CSS揭秘》
 1. 《CSS世界》
