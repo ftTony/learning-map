@@ -169,6 +169,7 @@
 1. [电子书下载网站](http://www.ireadweek.com)
 1. [前端文档库](https://github.com/wuxiaobin1995/Frontend-Doc)
 1. [学习笔记](https://github.com/yanlele/node-index)
+1. [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 1. 《CSS权威指南》
 1. 《CSS揭秘》
 1. 《CSS世界》
