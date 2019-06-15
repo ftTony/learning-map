@@ -96,6 +96,7 @@
 1. [常见面试题整理--计算机网络篇](https://zhuanlan.zhihu.com/p/24001696)
 1. [BAT大厂面试涉及的计网面试题都在这里了](https://juejin.im/post/5cfa71415188253f9e24ec36)
 1. [前端面试手册](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
+1. [前端面试集锦](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
 
 ### 优化的学习方法及建议
 1. [三年前端，面试思考（二）](https://juejin.im/post/5bdeb7c75188251709244c2b)
