@@ -59,7 +59,6 @@
 1. [(下篇)中高级前端大厂面试秘籍，寒冬中为您保驾护航，直通大厂](https://juejin.im/post/5cc26dfef265da037b611738?utm_source=gold_browser_extension)
 1. [(中篇)中高级前端大厂面试秘籍，寒冬中为您保驾护航，直通大厂](https://juejin.im/post/5c92f499f265da612647b754)
 1. [百度阿里网易大疆等大小厂前端校招面筋](https://juejin.im/post/5bb470295188255c5e66f88f)
-1. [从0到1，小白的前端摸索之路](https://juejin.im/post/5c555b2de51d457fa31e306d)
 1. [[杂谈]了解一些额外知识，让前端开发锦上添花](https://juejin.im/post/5b2f4790e51d45589e7bd63d)
 1. [2018春招前端面试: 闯关记(精排精校)](https://juejin.im/post/5a998991f265da237f1dbdf9)
 1. [总结了17年初到18年初百场前端面试的面试经验](https://juejin.im/post/5b44a485e51d4519945fb6b7)
