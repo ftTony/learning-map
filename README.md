@@ -97,3 +97,4 @@
 1. [前端面试手册](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
 1. [前端面试集锦](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
 1. [阿里，腾讯，百度，美团，头条等技术面试题目](https://github.com/0voice/interview_internal_reference)
+1. [Javascript 面试核心考点](https://mp.weixin.qq.com/s/Bk07WB9hBagL590RRjC4FA)
