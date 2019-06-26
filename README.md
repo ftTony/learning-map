@@ -89,8 +89,6 @@
 1. [五年面试，三年模拟](https://juejin.im/post/5ca0425e51882567ce181037)
 1. [写在2019年后的蚂蚁、头条、拼多多的面试总结](https://github.com/rhwayfun/interview/blob/master/README.md)
 1. [前端开发面试题](https://github.com/woai3c/Front-end-basic-knowledge)
-1. [JavaScript手写代码无敌秘籍](https://mp.weixin.qq.com/s/4uzNKQcKB5YJbtXF4NQyWg)
-1. [一个合格的中级前端工程师必须要掌握的 28 个 JavaScript 技巧](https://juejin.im/post/5cef46226fb9a07eaf2b7516)
 1. [前端面试常见知识点整理](https://github.com/fairyly/Interviewproject)
 1. [常见面试题整理--计算机网络篇](https://zhuanlan.zhihu.com/p/24001696)
 1. [BAT大厂面试涉及的计网面试题都在这里了](https://juejin.im/post/5cfa71415188253f9e24ec36)
