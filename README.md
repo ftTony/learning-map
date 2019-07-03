@@ -4,7 +4,7 @@
 
 ### 前端求职方向
 
-1. native方向(reative-native、小程序、Electron等)
+1. native方向(reative-native、flutter、小程序、Electron等)
 1. 后端方向(nodejs)
 1. 动画方向(webgl、svg、canvas)
 1. 工程化方向(组件化、各种工具使用、监控数据上报)
