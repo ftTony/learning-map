@@ -1,3 +1,13 @@
+![image](./img/timg.jpg)
+<br>
+## 前言
+
+本人平时学习及收集内容，欢迎参入一起讨论。
+
+## 关于作者
+
+暂时欠着
+
 ## 前端面试内容导图
 
 前端涉及的东西相对比较，对知识点做以下分类，仅个人观点。
@@ -47,3 +57,12 @@
 ![前端主管能力](https://user-images.githubusercontent.com/6395813/54873751-5e501900-4e18-11e9-8a0f-f91b46791c20.jpg)
 
 [常见手写代码部分](https://github.com/ftTony/notes/tree/master/%20InterviewQuestion)
+
+## 联系作者
+
+<div align="center">
+    <p>
+        在颠覆世界的同时，也要好好关照自己。
+    </p>
+    <img src="./img/contact.png" />
+</div>
