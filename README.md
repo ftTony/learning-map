@@ -23,9 +23,9 @@
 
 ### javascript 基础
 
-### javascript 基础
-
 ![javascript基础](https://user-images.githubusercontent.com/6395813/54739938-bdcddf00-4bf4-11e9-893a-c09183836e9c.jpg)
+
+### javascript进阶
 
 ### nodejs 学习
 
