@@ -21,11 +21,15 @@
 4. 工程化方向(组件化、打包使用如 webpack、监控数据上报、制定规范、单元测试搭建、发布工具(jenkins、gitlab-ci)、线上环境及开发环境搭建、灰度发布、docker 使用、nginx 配置、cdn 配置、缓存设置、前端性能优化)
 5. 专业写业务
 
+![image](career-direction.jpg)
+
 ### javascript 基础
 
 ![javascript基础](https://user-images.githubusercontent.com/6395813/54739938-bdcddf00-4bf4-11e9-893a-c09183836e9c.jpg)
 
-### javascript进阶
+### javascript 进阶
+
+![images](js-advance.jpg)
 
 ### nodejs 学习
 
